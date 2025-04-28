@@ -37,13 +37,6 @@ a{
     border-radius: 1.5px;
 }
 
-.logo{
-    height: 45px;
-    width: 126px;
-    background-image: url("amazon_logo.png");
-    background-size: cover;
-}
-
 .nav-add{
     padding: 10px;
 }
