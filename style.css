@@ -23,6 +23,11 @@ a{
     align-items: center;
 }
 
+.nav-logo{
+    width: 7.4vw;
+    margin-top: auto;
+}
+
 .border{
     border: 1.5px solid transparent;
 }
@@ -30,12 +35,6 @@ a{
 .border:hover{
     border: 1.5px solid white;
     border-radius: 1.5px;
-}
-
-.nav-logo{
-    height: 45px;
-    width: 126px;
-    padding: 4px;
 }
 
 .logo{
@@ -162,13 +161,6 @@ a{
     position: relative;
 }
 
-.backpage{
-    height: 450px;
-    width: 100vw;
-    background-image: url("amazon_back.jpg");
-    background-size: cover;
-}
-
 .intro{
     height: 40px;
     width: 96vw;
@@ -219,25 +211,11 @@ a{
     padding-left: 23px;
 }
 
-.pic1{
-    height: 300px;
-    width: 300px;
-    background-image: url("box1.jpg");
-    background-size: cover;
-}
-
 .heading1{
     font-size: 1.4rem;
     font-weight: 600;
     margin-top: 10px;
     padding-right: 100px;
-}
-
-.pic2{
-    height: 300px;
-    width: 300px;
-    background-image: url("box2.jpg");
-    background-size: cover;    
 }
 
 .heading2{
@@ -247,25 +225,11 @@ a{
     padding-right: 120px;
 }
 
-.pic3{
-    height: 300px;
-    width: 300px;
-    background-image: url("box3.jpg");
-    background-size: cover;
-}
-
 .heading3{
     font-size: 1.4rem;
     font-weight: 600;
     margin-top: 10px;
     padding-right: 60px;
-}
-
-.pic4{
-    height: 300px;
-    width: 230px;
-    background-image: url("box4.jpg");
-    background-size: cover;
 }
 
 .heading4{
@@ -275,25 +239,11 @@ a{
     padding-right: 0px;
 }
 
-.pic5{
-    height: 280px;
-    width: 300px;
-    background-image: url("box5.jpg");
-    background-size: cover;
-}
-
 .heading5{
     font-size: 1.4rem;
     font-weight: 600;
     margin-top: 10px;
     padding-right: 0px;
-}
-
-.pic6{
-    height: 300px;
-    width: 300px;
-    background-image: url("box6.jpg");
-    background-size: cover;
 }
 
 .heading6{
@@ -303,25 +253,11 @@ a{
     padding-right: 70px;
 }
 
-.pic7{
-    height: 300px;
-    width: 300px;
-    background-image: url("box7.jpeg");
-    background-size: cover;
-}
-
 .heading7{
     font-size: 1.4rem;
     font-weight: 600;
     margin-top: 10px;
     padding-right: 60px;
-}
-
-.pic8{
-    height: 300px;
-    width: 180px;
-    background-image: url("box8.jpeg");
-    background-size: cover;
 }
 
 .heading8{
